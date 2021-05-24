@@ -1,0 +1,2 @@
+# goRpc
+go rpc demo
